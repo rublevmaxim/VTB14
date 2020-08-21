@@ -29,7 +29,7 @@ public class Cat {
         this.color = color;
     }
 
-    public Cat(long l, String s) {
+    public Cat() {
     }
 
     public Cat(Long id, String name, String color) {
